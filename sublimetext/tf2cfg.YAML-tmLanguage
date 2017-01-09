@@ -1,0 +1,33 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: TF2 CFG
+scopeName: source.tf2cfg
+fileTypes: [cfg]
+uuid: d89121ff-1117-472d-8a9a-70cf6c97fe16
+
+patterns:
+- comment: numbers
+  name: constant.numeric.tf2cfg
+  match: \b\d+\.?(?:\d+)?\b
+
+- comment: double quoted string
+  name: string.quoted.double.tf2cfg
+  match: \"[^\"]+\"
+
+- comment: various keywords
+  name: entity.other.attribute-name.tf2cfg
+  match: \b(?:wait|echo|exec)\b
+
+- comment: alias
+  name: entity.name.function.tf2cfg
+  match: \balias\b
+
+- comment: binds
+  name: keyword.tf2cfg
+  match: \b(?:(?:(?:un)?bind(?:all)?))\b
+
+- comment: comment
+  name: comment.tf2cfg
+  match: //.*$
+
+...

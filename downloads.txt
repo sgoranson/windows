@@ -1,0 +1,99 @@
+# utilities
+
+## disk space analyzer
+https://windirstat.net/download.html
+
+## better vlc
+https://www.nomachine.com/download
+
+## scroll out of focus windows
+http://download.cnet.com/WizMouse/3000-18487_4-10907935.html
+
+## multiple desktops
+http://www.dexpot.de/?id=download
+
+## simple stickies
+http://www.zhornsoftware.co.uk/stickies/download.html
+
+## tcp optimizer
+http://www.speedguide.net/downloads.php
+
+## iso mount
+https://www.redfox.bz/en/download.html
+
+## pdf
+http://www.pdfsam.org/downloads/
+
+## process explorer (open files list)
+https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx
+
+## malware
+https://www.malwarebytes.com/mwb-download/
+
+## grep
+https://sourceforge.net/projects/grepwin/files/
+
+## cleaner start menu, up button in explorer
+http://www.classicshell.net/downloads/
+
+## best zip eva
+http://www.7-zip.org/download.html
+
+## torrent
+http://dev.deluge-torrent.org/wiki/Download
+
+## simple media player
+https://mpc-hc.org/downloads/
+
+## complex media player
+http://www.videolan.org/vlc/index.html
+
+## hotkey config
+https://autohotkey.com/download/
+
+## change keybinds
+https://keytweak.en.softonic.com/
+
+## explorer tabs
+http://ejie.me/download
+
+## video converter
+https://handbrake.fr/downloads.php
+
+
+# programming
+
+## st editor
+http://www.sublimetext.com/2
+https://packagecontrol.io/installation#st2
+
+## git for windows
+https://github.com/gitextensions/gitextensions/releases/latest
+
+## better console
+https://sourceforge.net/projects/console/?source=typ_redirect
+
+
+
+
+
+# gaming
+## counterstrike
+http://csmeta.com/  
+http://vibrancegui.com/vibrance/download
+https://www.teamspeak.com/downloads
+http://www.fraps.com/download.php
+
+## steam
+http://store.steampowered.com/about/
+
+
+
+# drivers
+
+## mouse
+http://www.coolermaster.com/peripheral/mice/spawn/
+
+## gpu
+http://www.nvidia.com/Download/index.aspx?lang=en-uk
+

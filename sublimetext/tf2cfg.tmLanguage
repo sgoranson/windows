@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>cfg</string>
+	</array>
+	<key>name</key>
+	<string>TF2 CFG</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string>numbers</string>
+			<key>match</key>
+			<string>\b\d+\.?(?:\d+)?\b</string>
+			<key>name</key>
+			<string>constant.numeric.tf2cfg</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>double quoted string</string>
+			<key>match</key>
+			<string>\"[^\"]+\"</string>
+			<key>name</key>
+			<string>string.quoted.double.tf2cfg</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>various keywords</string>
+			<key>match</key>
+			<string>\b(?:wait|echo|exec)\b</string>
+			<key>name</key>
+			<string>entity.other.attribute-name.tf2cfg</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>alias</string>
+			<key>match</key>
+			<string>\balias\b</string>
+			<key>name</key>
+			<string>entity.name.function.tf2cfg</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>binds</string>
+			<key>match</key>
+			<string>\b(?:(?:(?:un)?bind(?:all)?))\b</string>
+			<key>name</key>
+			<string>keyword.tf2cfg</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>comment</string>
+			<key>match</key>
+			<string>//.*$</string>
+			<key>name</key>
+			<string>comment.tf2cfg</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.tf2cfg</string>
+	<key>uuid</key>
+	<string>d89121ff-1117-472d-8a9a-70cf6c97fe16</string>
+</dict>
+</plist>

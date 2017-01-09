@@ -1,0 +1,12 @@
+{
+	"caret_style": "phase",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true
+}
